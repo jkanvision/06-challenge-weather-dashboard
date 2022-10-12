@@ -1,7 +1,9 @@
 // Global variables
 // search history as an empty array
 // weather api root url
+
 // api key
+var APIKey = "1a67ece8683b8e819387b6a5653dd78a";
 
 // DOM element references
 // search form
