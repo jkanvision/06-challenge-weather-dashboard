@@ -1,9 +1,10 @@
 // Global variables
 // search history as an empty array
-// weather api root url
+// weather api root url: https://api.openweathermap.org/
+
 
 // api key
-var APIKey = "1a67ece8683b8e819387b6a5653dd78a";
+var APIKey = "1b883691c2a350b06065858101b387ef";
 
 // DOM element references
 // search form
